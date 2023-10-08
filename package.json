@@ -43,5 +43,8 @@
   "bugs": {
     "url": "https://github.com/lpetrivnyk/modimal/issues"
   },
-  "homepage": "https://github.com/lpetrivnyk/modimal#readme"
+  "homepage": "https://github.com/lpetrivnyk/modimal#readme",
+  "dependencies": {
+    "@tailwindcss/forms": "^0.5.6"
+  }
 }
